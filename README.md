@@ -1,4 +1,4 @@
-# covid19_tracking
+# COVID19 Pandemia Evolution Tracker
 The situation of this pandemia has upset our lives. 
 To better understand the entity of this situation and provide a visual feedback I decided to produce
 a couple of interactive Python scripts.
